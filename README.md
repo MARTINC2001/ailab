@@ -1,1 +1,2 @@
 # ailab
+!pip install jupyterlab
